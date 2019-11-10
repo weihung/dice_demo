@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de0810a169515299b69d503301396352",
+    "revision": "ba75b948c97b02366c895aae29c8d056",
     "url": "https://weihung.github.io/dice_demo/index.html"
   },
   {

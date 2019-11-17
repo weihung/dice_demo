@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "https://weihung.github.io/dice_demo/static/css/main.892784d9.chunk.css",
-    "main.js": "https://weihung.github.io/dice_demo/static/js/main.7de47f61.chunk.js",
-    "main.js.map": "https://weihung.github.io/dice_demo/static/js/main.7de47f61.chunk.js.map",
+    "main.css": "https://weihung.github.io/dice_demo/static/css/main.c467d677.chunk.css",
+    "main.js": "https://weihung.github.io/dice_demo/static/js/main.f6e96f3d.chunk.js",
+    "main.js.map": "https://weihung.github.io/dice_demo/static/js/main.f6e96f3d.chunk.js.map",
     "runtime-main.js": "https://weihung.github.io/dice_demo/static/js/runtime-main.7a6135f0.js",
     "runtime-main.js.map": "https://weihung.github.io/dice_demo/static/js/runtime-main.7a6135f0.js.map",
-    "static/js/2.1b33c4d2.chunk.js": "https://weihung.github.io/dice_demo/static/js/2.1b33c4d2.chunk.js",
-    "static/js/2.1b33c4d2.chunk.js.map": "https://weihung.github.io/dice_demo/static/js/2.1b33c4d2.chunk.js.map",
+    "static/js/2.babe578d.chunk.js": "https://weihung.github.io/dice_demo/static/js/2.babe578d.chunk.js",
+    "static/js/2.babe578d.chunk.js.map": "https://weihung.github.io/dice_demo/static/js/2.babe578d.chunk.js.map",
     "index.html": "https://weihung.github.io/dice_demo/index.html",
-    "precache-manifest.1642ff18403b66cf89496a0a1ed63c12.js": "https://weihung.github.io/dice_demo/precache-manifest.1642ff18403b66cf89496a0a1ed63c12.js",
+    "precache-manifest.87b6d12560652c55f2078ffe8b1a0e97.js": "https://weihung.github.io/dice_demo/precache-manifest.87b6d12560652c55f2078ffe8b1a0e97.js",
     "service-worker.js": "https://weihung.github.io/dice_demo/service-worker.js",
-    "static/css/main.892784d9.chunk.css.map": "https://weihung.github.io/dice_demo/static/css/main.892784d9.chunk.css.map"
+    "static/css/main.c467d677.chunk.css.map": "https://weihung.github.io/dice_demo/static/css/main.c467d677.chunk.css.map",
+    "static/media/king.png": "https://weihung.github.io/dice_demo/static/media/king.e75004fd.png",
+    "static/media/king_selected.png": "https://weihung.github.io/dice_demo/static/media/king_selected.8212d440.png",
+    "static/media/pound.png": "https://weihung.github.io/dice_demo/static/media/pound.c70e2fd2.png",
+    "static/media/pound_selected.png": "https://weihung.github.io/dice_demo/static/media/pound_selected.2a22afff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7a6135f0.js",
-    "static/js/2.1b33c4d2.chunk.js",
-    "static/css/main.892784d9.chunk.css",
-    "static/js/main.7de47f61.chunk.js"
+    "static/js/2.babe578d.chunk.js",
+    "static/css/main.c467d677.chunk.css",
+    "static/js/main.f6e96f3d.chunk.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://weihung.github.io/dice_demo/static/css/main.7bf3c428.chunk.css",
-    "main.js": "https://weihung.github.io/dice_demo/static/js/main.81854f03.chunk.js",
-    "main.js.map": "https://weihung.github.io/dice_demo/static/js/main.81854f03.chunk.js.map",
+    "main.js": "https://weihung.github.io/dice_demo/static/js/main.25b3c9c4.chunk.js",
+    "main.js.map": "https://weihung.github.io/dice_demo/static/js/main.25b3c9c4.chunk.js.map",
     "runtime-main.js": "https://weihung.github.io/dice_demo/static/js/runtime-main.7a6135f0.js",
     "runtime-main.js.map": "https://weihung.github.io/dice_demo/static/js/runtime-main.7a6135f0.js.map",
     "static/css/2.79392781.chunk.css": "https://weihung.github.io/dice_demo/static/css/2.79392781.chunk.css",
-    "static/js/2.fee497b6.chunk.js": "https://weihung.github.io/dice_demo/static/js/2.fee497b6.chunk.js",
-    "static/js/2.fee497b6.chunk.js.map": "https://weihung.github.io/dice_demo/static/js/2.fee497b6.chunk.js.map",
+    "static/js/2.e868f5ce.chunk.js": "https://weihung.github.io/dice_demo/static/js/2.e868f5ce.chunk.js",
+    "static/js/2.e868f5ce.chunk.js.map": "https://weihung.github.io/dice_demo/static/js/2.e868f5ce.chunk.js.map",
     "index.html": "https://weihung.github.io/dice_demo/index.html",
-    "precache-manifest.9c6dfc60f538639b195d804e1f2b6a59.js": "https://weihung.github.io/dice_demo/precache-manifest.9c6dfc60f538639b195d804e1f2b6a59.js",
+    "precache-manifest.d934edba2cfbf49432af5978eef40f9f.js": "https://weihung.github.io/dice_demo/precache-manifest.d934edba2cfbf49432af5978eef40f9f.js",
     "service-worker.js": "https://weihung.github.io/dice_demo/service-worker.js",
     "static/css/2.79392781.chunk.css.map": "https://weihung.github.io/dice_demo/static/css/2.79392781.chunk.css.map",
     "static/css/main.7bf3c428.chunk.css.map": "https://weihung.github.io/dice_demo/static/css/main.7bf3c428.chunk.css.map",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.7a6135f0.js",
     "static/css/2.79392781.chunk.css",
-    "static/js/2.fee497b6.chunk.js",
+    "static/js/2.e868f5ce.chunk.js",
     "static/css/main.7bf3c428.chunk.css",
-    "static/js/main.81854f03.chunk.js"
+    "static/js/main.25b3c9c4.chunk.js"
   ]
 }
